@@ -2,6 +2,9 @@
 
 A multi-threaded Java application that simulates a dynamic railway system with trains, tracks, stations, and switches. The simulator features a graphical user interface built with JavaFX, allowing users to visualize and interact with the railway network.
 
+<img width="1229" alt="image" src="https://github.com/user-attachments/assets/e36c07b3-05e8-4f2d-9fb7-810ea394c4d7" />
+
+
 ## Features
 
 - **Interactive GUI**: Click-to-operate interface for controlling train movements between stations 
