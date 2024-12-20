@@ -218,4 +218,4 @@ Oscar McCoy - [omccoy1@unm.edu](mailto:omccoy1@unm.edu)
 
 Adam Fasulo - [afasulo3@unm.edu](mailto:afasulo3@unm.edu)
 
-Project PDF: [https://github.com/UNM-CS351/project-4-smartrail-project-4-group-06/blob/main/doc/cs351project4-smartrail.pdf]
+
